@@ -8,3 +8,7 @@ To address these challenges, we propose **ECMC (Emotion–Cognition Multi-modal 
 
 Extensive objective and subjective evaluations demonstrate that ECMC not only **outperforms existing multi-modal LLMs and mental health models** in caption generation, but also **enhances diagnostic interpretability** by bridging perceptual cues and psychological reasoning.
 
+<p align="center">
+  <img src="images/2" width="80%">
+</p>
+<p align="center"><b>Figure 1.</b> The framework of the proposed method.</p>
