@@ -1,4 +1,7 @@
-# Voices, Faces, and Feelings: Multi-modal Emotion-Cognition Captioning for Mental Health Understanding *(AAAI 2026)*  
+# Voices, Faces, and Feelings
+### Multi-modal Emotion-Cognition Captioning for Mental Health Understanding
+
+**AAAI 2026**
 ---
 
 ## 🌟 Overview  
@@ -77,3 +80,5 @@ BibTeX:
   year      = {2026},
   doi       = {10.1609/aaai.v40i3.37210}
 }
+
+We welcome researchers in related fields to reach out and exchange ideas!
